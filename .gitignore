@@ -1,0 +1,16 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+.idea
+compose-ubuntu/log_dir/
+compose-ubuntu/buildserver_pgdata/
+compose-ubuntu/data_dir/lib/
+compose-ubuntu/data_dir/plugins/
+compose-ubuntu/data_dir/system/
+compose-ubuntu/data_dir/config/
+!compose-ubuntu/data_dir/config/database.properties
